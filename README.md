@@ -1,6 +1,4 @@
-# Save the updated README content with AUC percentages into a Markdown file
 
-readme_content = """
 # ML Projects 🚀
 
 A collection of machine learning projects implemented in Python using scikit-learn, XGBoost, and more.  
