@@ -25,7 +25,7 @@ Each project is based on real-world datasets and includes data cleaning, EDA, mo
   - Feature correlation analysis
   - Density plots by diagnosis
   - Model comparison and tuning
-  - Final model: Tuned XGBoost (97% CV, ~94% test accuracy)
+  - Final model: Tuned XGBoost (99% CV, ~94% test accuracy)
 
 ---
 
