@@ -15,7 +15,7 @@ Each project is based on real-world datasets and demonstrates the full ML workfl
   - Logistic Regression
   - Support Vector Machine (SVM)
   - Random Forest
-  - XGBoost 
+  - XGBoost (I don't know this model very perfectly though)
 - **Evaluation Metrics:**
   - Accuracy
   - Confusion Matrix
@@ -23,7 +23,11 @@ Each project is based on real-world datasets and demonstrates the full ML workfl
   - Feature correlation analysis
   - Density plots by diagnosis
   - Accuracy comparison across models using bar plots
-  - Final model: Tuned XGBoost (`~99.2%` test accuracy)
+  - Final models accuracy:
+  #### - Logistic Regression `99.122%`
+  #### - Support Vector Machine (SVM) `98.256%`
+  #### - Random Forest `97.368%`
+  #### - XGBoost `99.231%`
 
 ---
 
